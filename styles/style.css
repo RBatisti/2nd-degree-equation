@@ -1,0 +1,42 @@
+body {
+    font-size: 25px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: chocolate;
+}
+
+p {
+    width: 30%;
+    display: inline;
+}
+
+#a, #b, #c {
+    width: 60%;
+}
+
+.value {
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 15%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: darkslategrey;
+}
+
+#button {
+    margin-top: 30px;
+    padding: 10px;
+    width: 30%;
+    background-color: chocolate;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bolder;
+}
